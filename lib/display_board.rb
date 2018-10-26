@@ -36,3 +36,5 @@ display_board(seven)
 display_board(eight)
 
 display_board(nine)
+
+puts display_board(one), display_board(two)
